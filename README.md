@@ -9,7 +9,7 @@ In this project, we verify the strain gradient thoery using the pantographe stru
 The geometric structure and mesh setting is done in file Pantographe.py without any manipulation of GUI.
 
 ## Implementation
-run the `main.py` in Abaqus to see more details.
-See `Laminate.py` and `Pantographe.py` for two choice of cell geometry for verification.
-See `DLOAD_SIGINI.for` for the Abaqus Subroutine implementation (Fortran scripting) where prestress and specified forces at each intergration points are established.
-See `Calcul_complet.py` for the second round verification by using complete structure instead of cell strcuture (Laminate or Pantograph)
+- run the `main.py` in Abaqus to see more details.
+- See `Laminate.py` and `Pantographe.py` for two choice of cell geometry for verification.
+- See `DLOAD_SIGINI.for` for the Abaqus Subroutine implementation (Fortran scripting) where prestress and specified forces at each intergration points are established.
+- See `Calcul_complet.py` for the second round verification by using complete structure instead of cell strcuture (Laminate or Pantograph)
