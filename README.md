@@ -1,6 +1,9 @@
 # Pantographe
 Strain Gradient Theory Simulation
 
+## Theorical proof
+Please refer `stage-3a.pdf` (written in French) for more description.
+
 ## Description 
 This folder uses periodic pantographe structure to verify the bending strain gradient theory, see more details in  <https://onlinelibrary.wiley.com/doi/10.1002/9781119005247.ch6>, and Arthur Lebee is the professor supervised me for this research intern.
 
