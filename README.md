@@ -1,4 +1,4 @@
-# Pantographe
+# pantographe-mechanics-simulation
 Strain Gradient Theory Simulation
 
 ## Theorical proof
